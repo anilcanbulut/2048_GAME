@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515177016 source:c:\users\anilc.desktop-form3nr\desktop\everything you are looking for\computer programming\c programming\fortraining\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
